@@ -147,7 +147,7 @@ and is used as a placeholder.
 
 ---
 # Satisfeed-Dashboard
-Team: Satisfeed
+Team: Satisfeed Spring 2026
 
 ## Team Structure
 
