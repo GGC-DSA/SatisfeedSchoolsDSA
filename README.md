@@ -157,8 +157,7 @@ Wilmer Cifuentes - Data Analyzer/Project Manager
 
 <img width="264" height="377" alt="image" src="https://github.com/user-attachments/assets/3ab9ccf1-8e5f-4b00-ade5-a84f8f21f8f7" width="200" />
 
-Ethan Boderas - Data Modeler/Client Liasion
-
+Ethan Boderas - Data Modeler / Client Liaison
 
 <img width="264" height="377" alt="image" src="https://github.com/user-attachments/assets/628733fc-0a5d-48e8-b7c6-1dceace9cb3f" width="200" />
 
