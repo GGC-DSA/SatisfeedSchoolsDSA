@@ -161,7 +161,7 @@ Ethan Boderas - Data Modeler / Client Liaison
 
 <img width="264" height="377" alt="image" src="https://github.com/user-attachments/assets/628733fc-0a5d-48e8-b7c6-1dceace9cb3f" width="200" />
 
-Jaylan Igbinoba - Visualization/Project Documenter
+Jaylan Igbinoba - Visualization / Project Documenter
 
 
 
