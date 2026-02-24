@@ -2,4 +2,4 @@
 
 2. Try to incorporate the child wellbeing index on the dashboard on united way Atlanta.
 
-3. Try to make the data dynamic (Meaning the dashboard / visuals will update in a set amount of time. (Huge restriction becuase of needing to code the dynamic part and finding a reliable data source that updates reguarly). 
+3. Try to make the data dynamic (Meaning the dashboard / visuals will update in a set amount of time.) (Huge restriction becuase of needing to code the dynamic part and finding a reliable data source that updates reguarly). 
