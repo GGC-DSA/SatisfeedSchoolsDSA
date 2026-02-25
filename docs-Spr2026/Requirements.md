@@ -9,4 +9,4 @@
 The clent wants us to work on these data sets:
 1. snap benefits dataset -- columns: g,h,i,m,n,o,p (we work on this first)
 2. student performance
-3. and free and reduce
+3. free and reduce lunch
