@@ -12,6 +12,8 @@ The clent wants us to work on these data sets:
 3. free and reduce lunch
 
 At 3/5/2026 We made a plan:
+
+
 Step 1: Explore Data Analysis
 Correlation between data
 Find trends with counties, races, food insecurity levels, hh income
