@@ -10,3 +10,22 @@ The clent wants us to work on these data sets:
 1. snap benefits dataset -- columns: g,h,i,m,n,o,p (we work on this first)
 2. student performance
 3. free and reduce lunch
+
+At 3/5/2026 We made a plan:
+Step 1: Explore Data Analysis
+Correlation between data
+Find trends with counties, races, food insecurity levels, hh income
+
+Step 2: Show relationships in data
+Example: Counties with a certain race show high insecurity rates
+Need to use t-test or something similar
+
+Step 3: Make visuals (prob in notebook) 
+Make visuals with data you found relationships with such as county with high food insecurity
+
+Step 4: ML/Algorithm
+Clustering is prob best: cluster certain stuff based on data you have
+Correlation also good
+
+Final: Interpret our findings and results 
+
