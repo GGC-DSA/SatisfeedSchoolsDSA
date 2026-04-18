@@ -6,6 +6,9 @@ In Spring 2025, Team Satisfeed partnered with the nonprofit Satisfeed, which pro
 ### Updates Fall 2025
 This semester’s work expands the original dashboard by integrating a new dashboard section with an interactive map. The goal is to help Satisfeed identify trends in food insecurity around Georgia's schools / libraries in relation to food distribution geographical data to improve distribution planning.
 
+### Updates Spring 2026 
+This semester's work tries to find more data and correlations in schools as well as trying to update the original dashboard with new data and analytics. The main goal is to try to identify what is factors that correlate to food insecurity in Georgia's schools.
+
 ## Project Documentation:
 [Project Demo](https://app.powerbi.com/view?r=eyJrIjoiMGViYzE1YzktZmEzNi00OTJhLThhNWQtZDRkMjczOTZlNzAxIiwidCI6ImNmOTU1MmRiLTY2MGEtNGE5MS05YmQ2LTY1YzIzMDBmOWNiMSIsImMiOjF9)\
 [Project Website](https://satisfeeddashboardproject.carrd.co)\
@@ -17,10 +20,24 @@ Project Poster (in the Docs folder)\
 [Project Poster](https://github.com/GGC-SD/SatisfeedSchools/blob/main/docs-Fall2025/Satisfeed-flyer.pdf)\
 [Final Report](https://github.com/GGC-SD/SatisfeedSchools/blob/main/docs-Fall2025/Satisfeed%20Dashboard%20Final%20Report.pdf)
 
+### Updates Fall 2026
+[Project Iteration 1 Vlog](https://ggcedu-my.sharepoint.com/personal/wcifuentes_ggc_edu/_layouts/15/stream.aspx?id=%2Fpersonal%2Fwcifuentes%5Fggc%5Fedu%2FDocuments%2FVBLOG%20FOR%20PROJECT%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E6a90ba21%2D6743%2D4191%2Db9fb%2D198ed8b502e3&isDarkMode=true)
+[Project Iteration 2 Vlog](https://drive.google.com/file/d/10LqyaYqLuuzBEY8m-DRE9LznbvPLPZPx/view)
+[Project Poster](https://app.marq.com/invitations/accept/inv_506f770c-0325-464a-ac8d-2110858959d3)
+
+
+
 ## Technologies
 - Next.js
 - Firebase
 - Python
+
+## Technologies (Spring 2026)
+- Google Colab
+- Python
+- Marq
+
+  
 
 ### Updates Fall 2025
 - MapLibre GL JS - https://maplibre.org/maplibre-gl-js/docs/  
@@ -95,6 +112,11 @@ bun dev
 2. Open http://localhost:3000 with your browser to see the result.
 3. Sign up for an account and verify with your email to get approved as an admin.
 4. You can start editing the page by modifying app/page.tsx. The page auto-updates as you edit the file.
+
+## Spring 2026 Team
+Jaylan Igbinoba - Visualization/Project Documenter
+Ethan Boderas - Data Modeler/Client Liasion
+Wilmer Cifuentes - Data Analyzer/Project Manager
 
 ## Spring 2025 Team
 Caleb Cedeno - Project Manager & Visualizations 
