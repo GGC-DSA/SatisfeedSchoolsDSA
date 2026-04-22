@@ -9,7 +9,7 @@ This semester’s work expands the original dashboard by integrating a new dashb
 ### Updates Spring 2026 
 This semester's work tries to find more data and correlations in schools as well as trying to update the original dashboard with new data and analytics. The main goal is to try to identify what is factors that correlate to food insecurity in Georgia's schools.
 
-## Project Documentation:
+## Project Documentation Spring 2026:
 [Project Demo](https://app.powerbi.com/view?r=eyJrIjoiMGViYzE1YzktZmEzNi00OTJhLThhNWQtZDRkMjczOTZlNzAxIiwidCI6ImNmOTU1MmRiLTY2MGEtNGE5MS05YmQ2LTY1YzIzMDBmOWNiMSIsImMiOjF9)\
 [Project Website](https://satisfeeddashboardproject.carrd.co)\
 Project Poster (in the Docs folder)\
@@ -26,18 +26,17 @@ Project Poster (in the Docs folder)\
 [Project Poster](https://app.marq.com/invitations/accept/inv_506f770c-0325-464a-ac8d-2110858959d3)
 
 
+## Technologies (Spring 2026)
+- Google Colab
+- Python
+- Marq
+
 
 ## Technologies
 - Next.js
 - Firebase
 - Python
 
-## Technologies (Spring 2026)
-- Google Colab
-- Python
-- Marq
-
-  
 
 ### Updates Fall 2025
 - MapLibre GL JS - https://maplibre.org/maplibre-gl-js/docs/  
@@ -132,6 +131,7 @@ Ewura Ama Awere - Data Modeler, Documentation Lead
 1. Poster was presented at Georgia Gwinnett College's Student Talent and Research Showcase (STARS) 4/17/2025
 2. Dashboard demo was given at Georgia Gwinnett College's CREATE Symposium 4/24/2025
 3. Expanded Dashboard demo was given at Georgia Gwinnett College's CREATE Symposium 11/21/2025
+4. Poster was presented at GGC's STARS event for the 2nd time at 4/24/26
 
 ---
 
@@ -160,6 +160,11 @@ Another key finding was the background of Satisfeed clients. Of clients who answ
 develop bilingual programming, in order to reach those among their client base more confident in Spanish than English.
 
 ![image](https://github.com/user-attachments/assets/91d3c0d2-ee81-4221-aaa0-cd337eb5fbde)
+
+### Remaining Scope (Spring 2026)
+After our dashboard, It would be better if the dashboard was incorporated into the main dashboard that was made last year. 
+[link to the TODO task](https://github.com/GGC-DSA/SatisfeedSchoolsDSA/blob/main/TODO.md)
+
 
 
 ### Remaining Scope
