@@ -63,8 +63,43 @@ PUT YOUR WORK HERE
 
 ## Iterations' Summary
 Iteration 1 -  We have found multiple datasets in our notebook and clean the dataset so it can be used and analyzed. Each of the datasets contain data that the client may want to use.
+
 Iteration 2 - We made hypothesises to analyze our datasets by prefoming different test and methods. Once the test was made we plotted them as a result. 
+
 Interation 3 - We pushed what we did for Iteration 2 onto a dashboard a website for our client in a easy to read format. 
 
 ## Github repo link
+[Link](https://github.com/GGC-DSA/SatisfeedSchoolsDSA)
+This link contains all the work that the current and former teams worked on. For our team, Our poster, Readme, TODO list and notebook are all there for people to view.
+
+## Website Link
+TODO 
+
+## Dashboard Link
+TODO
+
+## Notebook Link
+[Link to Notebook](https://colab.research.google.com/drive/1ylcu5KIpuvN4O-FZ1Vz35u4JWuUL5IoD?usp=sharing) 
+
+## Burndown and Velocity charts
+[First Iteration - Velocity Chart]("https://github.com/user-attachments/assets/27b82fab-6fac-4d55-9467-69d6e9fdf471")
+
+[First Iteration - Burndown Chart]("https://github.com/user-attachments/assets/7d18f0c9-890e-48b1-8fa2-6ae8445df9a3")
+
+[Second Iteration - Velocity Chart](https://github.com/user-attachments/assets/f58e8c19-b559-48c0-ae4a-ec6d13f70b37)
+
+[Second Iteratiion - Burndown Chart]("https://github.com/user-attachments/assets/176fd8bc-b90a-48de-bc6c-effb33a99423")
+
+## Projet Demo
+TODO
+
+## Features Implemented 
+Website + Dashboard has been deployed  PUT MORE DETAILS HERE
+
+## Known Issues
+TODO
+
+## TODO Tasks
+TODO
+
 
