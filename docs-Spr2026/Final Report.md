@@ -29,7 +29,24 @@ Jupyter Notebook, Matplotlib, PCA, K-means
 TODO
 
 ## Collections
-TODO
+
+https://www.google.com/url?q=https%3A%2F%2Fggcedu-
+my.sharepoint.com%2F%3Ax%3A%2Fg%2Fpersonal%2Fjigbinoba_ggc_edu%2FIQAk6TAWy7Y3QovA69ol1oS
+FARgWP-_uXz3k0q5sBITem-E%3Fe%3DMpdscf​
+
+https://www.google.com/url?q=https%3A%2F%2Fgeorgiainsights.gadoe.org%2Fdata-downloads%2F​
+
+https://www.google.com/url?q=https%3A%2F%2Fwww.fns.usda.gov%2Fpd%2Fsupplemental-nutrition-
+assistance-program-snap​
+
+https://www.google.com/url?q=https%3A%2F%2Fdatacenter.aecf.org%2Fdata%2Ftables%2F678-households-
+with-children-receiving-benefits-from-the-supplemental-nutrition-assistance-program-snap​
+
+https://www.google.com/url?q=https%3A%2F%2Fgosa.georgia.gov%2Fdashboards-data-report-
+card%2Fdownloadable-data​
+
+https://www.google.com/url?q=https%3A%2F%2Fmap.feedingamerica.org%2Fcounty%2F2023%2Foverall%2Fg
+eorgia
 
 ## Methods Used to Clean the Datasets
 To clean the data sets Jaylan used commons methods such as removing, combinding and sorting columns to make sure they are easier to under and only contain the stuff I need.
@@ -42,3 +59,12 @@ population will have a higher Free & Reduced Lunch percentage. My results found 
 ![image](https://github.com/user-attachments/assets/4629b798-c270-442a-99b4-0957bde75bca)
 
 PUT YOUR WORK HERE
+
+
+## Iterations' Summary
+Iteration 1 -  We have found multiple datasets in our notebook and clean the dataset so it can be used and analyzed. Each of the datasets contain data that the client may want to use.
+Iteration 2 - We made hypothesises to analyze our datasets by prefoming different test and methods. Once the test was made we plotted them as a result. 
+Interation 3 - We pushed what we did for Iteration 2 onto a dashboard a website for our client in a easy to read format. 
+
+## Github repo link
+
