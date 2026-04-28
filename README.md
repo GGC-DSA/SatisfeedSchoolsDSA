@@ -26,8 +26,9 @@ Project Poster (in the Docs folder)\
 [Project Poster](https://app.marq.com/invitations/accept/inv_506f770c-0325-464a-ac8d-2110858959d3)
 
 ### Updates Spring 2026
-[Project Dashboard](https://satisfeedschoolsdsa-nujacqzcus2fcpewqwkysx.streamlit.app/)
-[Project Website](https://satisfeedschoolsdsa-nujacqzcus2fcpewqwkysx.streamlit.app/)
+[Project Dashboard](https://satisfeedschoolsdsa-nujacqzcus2fcpewqwkysx.streamlit.app/)\
+[Project Website](https://satisfeedschoolsdsa-nujacqzcus2fcpewqwkysx.streamlit.app/)\
+[Project Poster](https://github.com/GGC-DSA/SatisfeedSchoolsDSA/blob/main/docs-Spr2026/Satisfeed%20Food%20Delivery.pdf)
 
 ## Technologies (Spring 2026)
 - Google Colab
