@@ -10,17 +10,15 @@ st.set_page_config(
     layout="wide"
 )
 
-# -------------------------------------------------
 # File paths
-# -------------------------------------------------
+
 BASE_DIR = os.path.dirname(__file__)
 
 def file_path(filename):
     return os.path.join(BASE_DIR, filename)
 
-# -------------------------------------------------
 # Helpers
-# -------------------------------------------------
+
 def safe_image(path: str, width: int = 950):
     try:
         st.image(file_path(path), width=width)
@@ -75,9 +73,9 @@ def insecurity_fill(rate):
 def section_card(title: str):
     st.markdown(f"### {title}")
 
-# -------------------------------------------------
+
 # Load data
-# -------------------------------------------------
+
 school_df = pd.read_csv(file_path("dashboard_data_geocoded.csv"))
 
 school_df["LAT"] = pd.to_numeric(school_df["LAT"], errors="coerce")
@@ -121,9 +119,9 @@ df["LAT"] = pd.to_numeric(df["LAT"], errors="coerce")
 df["LON"] = pd.to_numeric(df["LON"], errors="coerce")
 df = df.dropna(subset=["LAT", "LON"]).copy()
 
-# -------------------------------------------------
+
 # Sidebar
-# -------------------------------------------------
+
 st.sidebar.title("Directory")
 page = st.sidebar.radio(
     "Navigation",
@@ -131,9 +129,9 @@ page = st.sidebar.radio(
     label_visibility="collapsed"
 )
 
-# -------------------------------------------------
+
 # Home
-# -------------------------------------------------
+
 if page == "Home":
 
     spacer_left, header_col, spacer_right = st.columns([0.3, 8, 0.3])
@@ -171,9 +169,9 @@ if page == "Home":
         with img_center:
             st.image(file_path("Satisfeed1.png"), width=700)
 
-# -------------------------------------------------
+
 # Analysis
-# -------------------------------------------------
+
 elif page == "Analysis":
     st.title("Analysis")
 
@@ -225,9 +223,9 @@ elif page == "Analysis":
         """
     )
 
-# -------------------------------------------------
+
 # Map
-# -------------------------------------------------
+
 elif page == "Map":
     st.title("Georgia Schools Map")
 
@@ -379,9 +377,9 @@ elif page == "Map":
             st.write("Click on an individual school node to see details.")
             st.write("If schools are clustered together, click the cluster to zoom in.")
 
-# -------------------------------------------------
+
 # Data Overview
-# -------------------------------------------------
+
 elif page == "Data Overview":
     st.title("Datasets")
 
