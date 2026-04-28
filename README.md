@@ -9,7 +9,7 @@ This semester’s work expands the original dashboard by integrating a new dashb
 ### Updates Spring 2026 
 This semester's work tries to find more data and correlations in schools as well as trying to update the original dashboard with new data and analytics. The main goal is to try to identify what is factors that correlate to food insecurity in Georgia's schools.
 
-## Project Documentation Spring 2026:
+## Project Documentation Spring 2025:
 [Project Demo](https://app.powerbi.com/view?r=eyJrIjoiMGViYzE1YzktZmEzNi00OTJhLThhNWQtZDRkMjczOTZlNzAxIiwidCI6ImNmOTU1MmRiLTY2MGEtNGE5MS05YmQ2LTY1YzIzMDBmOWNiMSIsImMiOjF9)\
 [Project Website](https://satisfeeddashboardproject.carrd.co)\
 Project Poster (in the Docs folder)\
@@ -25,6 +25,9 @@ Project Poster (in the Docs folder)\
 [Project Iteration 2 Vlog](https://drive.google.com/file/d/10LqyaYqLuuzBEY8m-DRE9LznbvPLPZPx/view)
 [Project Poster](https://app.marq.com/invitations/accept/inv_506f770c-0325-464a-ac8d-2110858959d3)
 
+### Updates Spring 2026
+[Project Dashboard](https://satisfeedschoolsdsa-nujacqzcus2fcpewqwkysx.streamlit.app/)
+[Project Website](https://satisfeedschoolsdsa-nujacqzcus2fcpewqwkysx.streamlit.app/)
 
 ## Technologies (Spring 2026)
 - Google Colab
