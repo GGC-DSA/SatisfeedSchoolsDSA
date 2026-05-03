@@ -29,7 +29,8 @@ Project Poster (in the Docs folder)\
 [Project Dashboard](https://satisfeedschoolsdsa-nujacqzcus2fcpewqwkysx.streamlit.app/)\
 [Project Website](https://satisfeedschoolsdsa-nujacqzcus2fcpewqwkysx.streamlit.app/)\
 [Project Poster](https://github.com/GGC-DSA/SatisfeedSchoolsDSA/blob/main/docs-Spr2026/Satisfeed%20Food%20Delivery.pdf)\
-[Project Demo](https://youtu.be/To6g5kFaFVw)
+[Project Demo](https://youtu.be/To6g5kFaFVw)\
+[Final Report](https://github.com/GGC-DSA/SatisfeedSchoolsDSA/blob/main/docs-Spr2026/Satisfeed%20Final%20Report%20.pdf)
 
 ## Technologies (Spring 2026)
 - Google Colab
