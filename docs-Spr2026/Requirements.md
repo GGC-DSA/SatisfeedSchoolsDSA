@@ -1,33 +1,31 @@
-# 1st Interation
-1. Client wants to show metrics on different schools on the visualization dashboard. (including libraries, reduced lunches etc. kids affected by snap benefits etc.) We should be bringing in new data from new sources.
+# Project Requirements & Deliverables
 
-3. Try to incorporate the child wellbeing index on the dashboard on united way Atlanta.
+## General Requirements
+* Create a geographic dashboard that displays relevant data to help determine which locations to focus on.
+* Enable the client to identify correlations and factors contributing to food insecurity.
+* Display all schools on an interactive map interface.
+* Allow users to select individual schools to view detailed information, including performance metrics and food insecurity data.
 
-4. Try to make the data dynamic (Meaning the dashboard / visuals will update in a set amount of time.) (Huge restriction becuase of needing to code the dynamic part and finding a reliable data source that updates reguarly). 
+---
 
-# 2nd Interation 
-The clent wants us to work on these data sets:
-1. snap benefits dataset -- columns: g,h,i,m,n,o,p (we work on this first)
-2. student performance
-3. free and reduce lunch
+## Iteration 1: Data Collection & Selection
+* Identify and gather potential datasets relevant to the project objectives.
+* Evaluate datasets to determine their relevance to client needs (food insecurity and student performance).
+* Ensure selected datasets can be integrated and correlated with one another.
 
-At 3/5/2026 We made a plan:
+---
 
+## Iteration 2: Data Preparation & Analysis
+* Clean and preprocess the selected datasets.
+* Filter datasets to include only the columns relevant to client requirements.
+* Perform data analysis to identify patterns and correlations.
+* Generate visualizations (e.g., charts, graphs) to represent findings.
 
-Step 1: Explore Data Analysis
-Correlation between data
-Find trends with counties, races, food insecurity levels, hh income
+---
 
-Step 2: Show relationships in data
-Example: Counties with a certain race show high insecurity rates
-Need to use t-test or something similar
-
-Step 3: Make visuals (prob in notebook) 
-Make visuals with data you found relationships with such as county with high food insecurity
-
-Step 4: ML/Algorithm
-Clustering is prob best: cluster certain stuff based on data you have
-Correlation also good
-
-Final: Interpret our findings and results 
-
+## Iteration 3: Dashboard & Website Development
+* Develop a website to present data insights and visualizations.
+* Build an interactive geographic dashboard within the website.
+* Integrate datasets with the dashboard for real-time display.
+* Implement map functionality allowing users to navigate and explore locations.
+* Ensure each school marker displays the analyzed data and relevant information identified in Iteration 2.
