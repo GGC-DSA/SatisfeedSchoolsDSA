@@ -28,7 +28,7 @@ Project Poster (in the Docs folder)\
 ### Updates Spring 2026
 [Project Dashboard](https://satisfeedschoolsdsa-nujacqzcus2fcpewqwkysx.streamlit.app/)\
 [Project Website](https://satisfeedschoolsdsa-nujacqzcus2fcpewqwkysx.streamlit.app/)\
-[Project Poster](https://github.com/GGC-DSA/SatisfeedSchoolsDSA/blob/main/docs-Spr2026/Satisfeed%20Food%20Delivery.pdf)
+[Project Poster](https://github.com/GGC-DSA/SatisfeedSchoolsDSA/blob/main/docs-Spr2026/Satisfeed%20Food%20Delivery.pdf)\
 [Project Demo](https://youtu.be/To6g5kFaFVw)
 
 ## Technologies (Spring 2026)
