@@ -148,9 +148,7 @@ Data was analyzed and visualized using Google Collab, a cloud version of the Pyt
 layout was created in Power BI for later implementation in Javascript by Thanh Tran. The final project will include a database and password-protected site where the 
 dashboard can be viewed by Satisfeed employees.
 
-## Spring 2025 Project Progress
-Disclaimer: The notebook, dataset, and PBIX file cannot be displayed, as they contain personal information of Satisfeed customers including full names, addresses, and phone numbers. Therefore, all displayed metrics and stats are a high-level overview of the analysis without specific data points displayed.
-
+## Spring 2026 Project Progress
 
 ### Analysis Methods (2026)
 For the datasets, PCA and K-means where used for our analysis in our datasets. We came up with two different hypotheis for things we want to look at. 
@@ -158,12 +156,11 @@ For the datasets, PCA and K-means where used for our analysis in our datasets. W
 One of the hypothesis for the project is trying to if School's population and the schools's Free & Reduced Lunch percentage has any correlation in any way. The 2nd hypothesis is asking if Counties with higher child food insecurity rates will also have higher percentages of children in households below 185% FPL.
 
 One of the Key findings for the 1st hypothesis is that the two variables has no correlation between each other. you can use this in the below image. In the image it shows that most on of the data points in the PCA test was values from -2 to 2 which typically means that the data has no correlation. 
-
 ![image](https://github.com/user-attachments/assets/4629b798-c270-442a-99b4-0957bde75bca)
 
 
-
-
+## Spring 2025 Project Progress
+Disclaimer: The notebook, dataset, and PBIX file cannot be displayed, as they contain personal information of Satisfeed customers including full names, addresses, and phone numbers. Therefore, all displayed metrics and stats are a high-level overview of the analysis without specific data points displayed.
 
 ### Analysis Methods
 PCA and linear regression were attempted on the data set, but failed due to a lack of numerical data and numerous gaps in client reporting. As a result, most of the 
